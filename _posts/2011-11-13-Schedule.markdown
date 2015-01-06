@@ -1,0 +1,111 @@
+---  
+layout: post  
+title: Schedule
+---  
+The main topics of FOSSASIA 2011 are all related to Free  and Open Source Software with a track for&nbsp;Mobile Solutions, Web  Technologies,&nbsp;Operating Systems and Applications, and&nbsp;Women in IT.
+
+![Linux Conference in Asia, FOSSASIA Summit](/img/blog/Schedule1.JPG)
+
+| Day             | Time          | Event                     											        | Location																								 |
+| ----------------|---------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Thurday,Nov 10  | 20.00         | Pre-Meeting                    												| The Spotted Cow Bar111 Bui Vien, dist 1. HCMC (opposite to Happy Inn, closed to Pham Ngu Lao & De Tham)|
+| Friday,Nov 11   | 9.00-17.00    | Info Day(15-20 min presentations about projects and set up of info tables)  | Van Lang University, Campus 2 (Theatre Hall)            												 |
+| Saturday,Nov 12 | 9.00-17:30    | Community Day (keynotes, talks, workshops)                					| Van Lang University, Campus 2 (Theatre Hall and Seminar Rooms)        								 |
+| Sunday,Nov 13   | 9.00-15:30    | Mekong Excursion organized by tour company                					|  Mekong Delta																							 |
+
+**FOSSASIA 2011 Tracks**
+
+Four sessions in parallel for   FOSSASIA 2011.
+
+a) Mobile solutions
+
+* Android, MeeGo, Chrome OS, Symbian, Bada, OpenWrt and embedded Debian
+* Frameworks and SDK including Phonegap
+* Lightning talks with app presentations
+
+c) Web Technologies
+
+* Frameworks
+* CMS
+* HTML5
+* Ruby on Rails, Python, PHP
+
+d) Operating Systems and Applications
+
+* new interface design and lightweight trends with KDE, GNOME, LXDE and XFCE
+* Package design and development
+
+b) Women in IT
+
+While   most Open Source and Free Software projects are based in Western   countries there is an increasing number of projects from Asia. Women are   also becoming a stronger force in the IT community. The FOSSASIA team   strongly encourages the participation of young women and achieved this   goal with an astounding participation of women in 2009 and 2010 – more   than half of all attendees were women. How can we make this trend   sustainable and support the flow of women into the technology companies?
+
+
+![Open Source Conference in Asia, FOSSASIA Workshop](/img/blog/Schedule2.JPG)
+
+| Track           										   | Topics
+| ---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Track 1: Mobile Solutions  							   |Mobile Devices , platform for Mobile devices (Android, Chrome OS, Maemo, Symbian, Moblin, Bada) and software solution for Tablets / Smartbook s,  HTML5 and the Web Technologies for mobile phones, Frameworks and Phonegap   |
+| Track 2: Web Technologies  							   |Frameworks, CSS, HTML5, Ruby on Rails, Python, PHP 																																									          |
+| Track 3: Operating systems and Applications              | new interface design and lightweight trends with KDE, GNOME, LXDE and XFCE ,Package design and development																												      |
+| Track 4: Fostering the Asian community and women in IT   | including international Womens Panel																																														  |
+
+![Open Source Conference in Asia, FOSSASIA Workshop](/img/blog/Schedule3.JPG)
+
+
+![Open Source Conference in Asia, FOSSASIA Workshop](/img/blog/Schedule4.JPG)
+
+
+**Schedule of Friday 11, 2011**
+
+| Time        | Topic and Project     										      | Speaker           |   Title/Organisation						|
+|-------------|-------------------------------------------------------------------|-------------------|---------------------------------------------|
+| 8:30        | Welcome - Hong Phuc Dang &Lilly Nguyen						      |                   |  											|
+| 8:35-45     | IT in University Education        							      | Dung Nguyen       | Van Lang University, President            	|
+| 8:45-55     | New Open Technologies and opportunities for developers  	      | Mario Behling     | MBM, Managing Director, Germany             |
+| 8:55-9:10   | Open Source in Vietnam    		  							      | Phuc V.Nguyen     | Asia Institute of Management and Technology	|
+| 9:10-9:30   | Open Cambodia 		  										      | ChantraBe         | Social Software Specialist, Cambodia		|
+| 9:30-9:50   | Undercover UXO, a Land Mine Risk Education Game for Children      | Nancie Severs     | One Laptop per Child, USA					|
+| 9:50-10:10  | Lubuntu - Faster comuting with less powerful hardware		      | Julien Lavergne   | Head Developer lubuntu, France				|
+| 10:10-10:30 | Debian Blends: Make your own 'blended' Linux distribution         | Jonas Smedagaard  | Debian Developer, Denmark					|
+| 10:30-10:50 | Linux as a Real-Time Operating System  		  				      | Hong Tran Duc     | Linux Developer, Vietnam					|
+| 10:50-11:10 | Achievements of applying the open source software at Van Lang Uni | Vinh Nguyen       | Van Lang University, IT Department			|
+| 11:10-11:30 | Open Source and Microsoft   		  							  | Justin Lee        | Software Development Consultant (freelance)	|
+| 11:30-11:50 | UNESCO and the Free Software Community    		  				  | David Sorti       | UNESCO, Open Suite Team France				|
+| 12:00-13:30 | Lunch Break   		  											  |                   | 											|
+| 13:30-14:00 | LibreOffice on Smartphones    		  							  | Hung Ngueyn Vu    | Libre Office Project, Vietnam				|
+| 14:00-14:20 | Strategy to make money on free mobile apps  		  			  | Binh Tran         | App developer, Vietnam						|
+| 14:20-14:40 | Phonegap, App development with web technologies    		  		  | Liem Vo			  | App developer, Tech Propulsion Lab, Vietnam	|
+| 14:40-15:00 | Creative Mobile Technologies with Vietnam  		  				  | Ian Morrison      | GKIM Vietnam, Founder						|
+| 15:00-15:20 | Android Development for postal companies   		  				  | Thong Tran	      | App developer, MBM, Vietnam					|
+| 15:20-15:30 | Using Mobile Technologies in DHIS Project    		  			  | Long Ngo Thanh    | App developer, Vietnam						|
+| 15:30-15:40 | Mozilla Mobile Technologies    		  							  | Hung Nguyen       | Mozilla Contributor, Vietnam				|
+| 15:40-16:00 | Giới thiệu ngắn về TeX    		  								  | Anh Huynh         | Developer, Saigonlug member					|
+| 16:00-16:20 | LaTeX và Đại số máy tính (LaTeX and Computer Algebra System)      | Son NGuyen        | Professor and Book Publisher, Vietnam		|
+| 16:20-16:40 | Hong Phuc Dang & Lilly Nguyen, End Notes and Outlook for Workshops|                   | 											|
+
+
+![Asia Open Source Event FOSSASIA](/img/blog/Schedule5.JPG)
+
+
+![Asia Open Source Event FOSSASIA](/img/blog/Schedule6.JPG)
+
+
+**Schedule, Saturday Nov 12**
+
+| Time         | Main Hall     										         | Room C408                       |  Room C409					      | Room C508			            | Room C509		  									  |
+|--------------|-------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------|-----------------------------------------------------|
+| 8:30-9:00    | Hong Phuc Dang & Lilly Nguyen, Saturday Workshops Overview	 | 				                   |                     		      |						            |				  									  |
+|              |                       							             | Women in IT Meet up             | Drupal Web development           | Lubuntu for development         | Agile Software Development with TestLink and Redmine| 
+| 9:00-12:00   |             	      										 | Hong Phuc Dang                  | Sven Berg Ryen 			      | Julien Lavargne		            | Nguyen Vu Hung		                              |
+|              |            	      										 | Open Source Enthusiast, Vietnam | Drupal Developer, Norway         | Lubuntu Developer,France        | Libre Office Project Vietnam			              |
+| 12:00-13:00  | Lunch Break  							      				 |                                 | 							      |						            |				                                      |
+|              | 	  							      						 |                                 | Yii-Web Development         	  |Shape Debian for your custom need| Android Development with  Phonegap				  |                                     
+| 13:00-16:00  | 	  							      						 |                                 | Le Kien Truc                	  |Jonas Smedegaard				    | Tran Quang Thong				                      |
+|              | 	  							      						 |                                 | Ubuntu Vietnam              	  |Debian Developer, Denmark		| MBM Mobile Developer				                  |
+| 16:00-16:15  | Hong Phuc Dang & Lilly Nguyen, Closing Notes	  		     |					               |				                  |						            |				                                     
+
+
+![Asia Open Source Event FOSSASIA](/img/blog/Schedule7.JPG)
+
+
+![Asia Open Source Event FOSSASIA](/img/blog/Schedule8.JPG)
