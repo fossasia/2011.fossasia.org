@@ -1,0 +1,35 @@
+    <div class="navbar-wrapper">
+      <div class="container">
+
+        <nav class="navbar navbar-default navbar-fixed-top" style="opacity:0.85;">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" style="margin-left:20px;color:#b31b00;" href="#">fossasia</a>
+            </div>
+            <div id="navbar" style="float:right;margin-right:45px;" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li><a id="home-nav" href="#">Home</a></li>
+                <li><a href="http://blog.fossasia.org">Blog</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Posts <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    {% for post in site.posts %}
+                      <li>
+                        <a href="{{ post.url }}">{{post.title}}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
