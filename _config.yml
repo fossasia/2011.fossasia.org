@@ -1,0 +1,7 @@
+# Site settings
+title: FOSSASIA 11
+baseurl: "/fossasia11" # the subpath of your site, e.g. /blog/
+url: "http://fossasia.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
