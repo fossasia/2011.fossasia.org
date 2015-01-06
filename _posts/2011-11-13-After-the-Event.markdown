@@ -8,7 +8,7 @@ A number of get together and hacker meetings took place after FOSSASIA.
 
 We had a wonderful weekend in the Mekong with [Jonas Smedegaard](http://dr.jones.dk/), a [Debian](http://debian.org) Developer from Denmark. Jonas got met with a few local developers and  conducted a Debian session where he showed people how to set up debian  server and to develop an automatic SMS service on a cheap mobile device.
 
-![Open Technology in Asia, FOSSASIA with UNESCO and Debian Participants]({{ site.baseurl }}/img/slides/IMG3.jpg)
+![Open Technology in Asia, FOSSASIA with UNESCO and Debian Participants]({{ site.baseurl }}/img/slides/IMG3.JPG)
 
 ### Student Code Programs After FOSSASIA 2011
 
