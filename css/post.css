@@ -111,3 +111,7 @@
 .post {
 	padding:20px 25px 20px 25px;
 }
+
+.page-content {
+	box-shadow: 0 0 10px #000000;
+}
