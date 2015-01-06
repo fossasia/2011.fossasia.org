@@ -16,4 +16,4 @@ Focusing on education in schools Nancie Severs introduced her beautiful work wit
 
 On  the second day students had the chance to learn in depth about Open  Source software projects in workshops and panels. One of the most  exciting get together happened at "Women in IT". The meet up attracted  around 50 young girls who showed great interest and passion about open  education and the global contribution of girls in Asia to FOSS projects.
 
-![FOSSASIA Open Source Event in Asia]({{ site.baseurl }}/img/blog/Highlight2.JPG)
+![FOSSASIA Open Source Event in Asia]({{ site.baseurl }}/img/blog/Highlight2.jpg)
