@@ -6,6 +6,7 @@ title: Location
 
 Ho Chi Minh City (Saigon) (Vietnamese: Thành phố Hồ Chí Minh Thanh Pho Ho Chi Minh) is the largest city in Vietnam. It was known as Prey Nokor before being annexed by the Vietnamese in the 17th century. Under the name Saigon, it was the capital of the French colony of Cochinchina and later of the independent state of South Vietnam from 1954 to 1975. In 1976, Saigon merged with the surrounding province of Gia Định and was officially renamed Hồ Chí Minh City (although the name Sài Gòn – formally known as District 1 – is still commonly used.)
 
+
 ![Tập tin:Saigonnightskyline.jpg](http://upload.wikimedia.org/wikipedia/commons/e/e7/Saigonnightskyline.jpg)
 
 Saigon <span>Ho Chi Minh City’s Downtown</span> at night
@@ -14,6 +15,10 @@ Saigon <span>Ho Chi Minh City’s Downtown</span> at night
 # **Geography and Climate**
 
 Ho Chi Minh City is located at 10°45′N, 106°40′E in the southeastern region of Vietnam. The average elevation is 19 meters (63 ft) above sea level. The city covers an area of 2,095 km² (809 sq mi) (0.63% of the surface of Vietnam). The city has a tropical climate, with an average humidity of 75%. A year is divided into two distinct seasons. The rainy season, with an average rainfall of about 1,800 millimetres (71 in) annually (about 150 rainy days per year), usually begins in May and ends in late November. The dry season lasts from December to April. The average temperature is 28 °C (82 °F), the highest temperature sometimes reaches 39 °C (102 °F) around noon in late April, while the lowest may fall below 16 °C (61 °F) in the early mornings of late December.
+
+
+![Weather]({{ site.baseurl }}/img/blog/Weather.png)
+
 
 # **Get in by plane**
 
@@ -29,7 +34,9 @@ Ho Chi Minh City is located at 10°45′N, 106°40′E in the southeastern regio
 
 [Tan Son Nhat International Airport](http://en.wikipedia.org/wiki/Tan_Son_Nhat_International_Airport "Tan Son Nhat International Airport"), a joint civilian and military airport, is located 4&nbsp;mi (6&nbsp;km) north of the city center (District 1). Ho Chi Minh city’s road system is in improvable condition. Many of its streets are riddled with potholes. Recently, the number of motorcycles has increased to about 4 million. There are also over 500,000 automobiles, packing the city’s arterial roads and making traffic congestion and air pollution common problems. While [Beijing](http://en.wikipedia.org/wiki/Beijing "Beijing") used to be called “the City of Bicycles”, Ho Chi Minh City is “the Capital of Motorbikes”. Motorcycle-taxi (_xe ôm_) is a popular means of transport; foreigners are often greeted with the cry, “Motorbike!” Visitors should consider the city’s streets as dangerous due to the motorists’ lack of behavior and the city’s lack of traffic law enforcement. Drivers can be seen [driving the wrong way](http://en.wikipedia.org/wiki/Driving_the_wrong_way "Driving the wrong way") up one-way streets, ignoring red lights, not stopping for pedestrians on marked crossings and driving on the footpaths. From 2008, this has improved somewhat, with more traffic lights, greater adherence to traffic light signals, and motorcycle helmets being worn. The city is the terminal hub of the North South Railroad of Vietnam. Passengers can travel to [Hanoi](http://en.wikipedia.org/wiki/Hanoi "Hanoi") and the Chinese border, about 1,212 mi/1,950&nbsp;km to the north. There are many harbours along the Saigon and [Dong Nai](http://en.wikipedia.org/wiki/Dong_Nai "Dong Nai") Rivers. From Ho Chi Minh City, one can travel to many places in Southern Vietnam and to Cambodia by road or waterway. The city is linked to the Central Highlands by National Highways 14 and 20, to the Central Coast and the north by National Highway 1 and to the [Mekong River Delta](http://en.wikipedia.org/wiki/Mekong_River_Delta "Mekong River Delta") by National Highways 1 and 50. Two expressways are being built to connect the city to [Can Tho](http://en.wikipedia.org/wiki/Can_Tho "Can Tho"), the capital of the Mekong River Delta, and to [Dau Giay](http://en.wikipedia.org/w/index.php?title=Dau_Giay&amp;action=edit&amp;redlink=1 "Dau Giay (page does not exist)") Township, [Dong Nai](http://en.wikipedia.org/wiki/Dong_Nai "Dong Nai") Province, 70&nbsp;km to the northeast.
 
+
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mother_Child_Motorbike_Vietnam.jpg/180px-Mother_Child_Motorbike_Vietnam.jpg)
+
 
 ### **By taxi**
 
