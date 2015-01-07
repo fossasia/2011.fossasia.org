@@ -64,11 +64,13 @@
 
       <div class="wrapper">
         {% for post in site.posts %}
+          {% if post.title != 'Venue' %}
         <div class="post">
           <h2 style="padding-bottom:5px;"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
           {{ post.content }}
         </div>
         <hr/>
+          {% endif %}
       {% endfor %}
       </div>
       <!-- FOOTER -->
