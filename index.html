@@ -21,7 +21,6 @@
     <![endif]-->
 
     <!-- Custom styles for this template -->
-    <link href="css/post.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
   </head>
   <body>
@@ -66,8 +65,8 @@
       <div class="wrapper">
         {% for post in site.posts %}
         <div class="post">
-          <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-          {{ post.excerpt }}
+          <h2 style="padding-bottom:5px;"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+          {{ post.content }}
         </div>
         <hr/>
       {% endfor %}
@@ -89,6 +88,8 @@
     <!-- scripts -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-
+    <script>
+    $('table').addClass('table');
+    </script>
   </body>
 </html>
