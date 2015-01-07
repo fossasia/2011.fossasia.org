@@ -7,3 +7,5 @@ FOSSASIA 2011 was held at [Van Lang University](http://www.vanlanguni.edu.vn/) i
 ![]({{ site.baseurl }}/img/blog/WrapUp.jpg)
 
 There  were a total of 24 speakers, 60% were local speakers and 40% of them  were from other countries, including USA, France, Denmark, Cambodia,  Germany, Singapore etc. There were 26 talks over the two days.
+
+![]({{ site.baseurl }}/img/slides/IMG1.JPG)
