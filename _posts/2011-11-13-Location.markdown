@@ -15,6 +15,14 @@ Saigon <span>Ho Chi Minh City’s Downtown</span> at night
 
 Ho Chi Minh City is located at 10°45′N, 106°40′E in the southeastern region of Vietnam. The average elevation is 19 meters (63 ft) above sea level. The city covers an area of 2,095 km² (809 sq mi) (0.63% of the surface of Vietnam). The city has a tropical climate, with an average humidity of 75%. A year is divided into two distinct seasons. The rainy season, with an average rainfall of about 1,800 millimetres (71 in) annually (about 150 rainy days per year), usually begins in May and ends in late November. The dry season lasts from December to April. The average temperature is 28 °C (82 °F), the highest temperature sometimes reaches 39 °C (102 °F) around noon in late April, while the lowest may fall below 16 °C (61 °F) in the early mornings of late December.
 
+
+|   Month                 |    Jan   | Feb     | Mar      | Apr      | May       | Jun      | Jul        | Aug        | Sep        | Oct        | Nov        | Dec        |
+|-------------------------|----------|---------|----------|--------- |-----------|----------|------------|------------|------------|------------|------------|------------|
+| Avereage High °C (°F)   | 32 (90)  | 33 (91) | 34 (91)  | 34 (93)  | 33 (91)   | 32 (90)  | 31 (68)	 | 32 (90)    | 31 (88)    | 31 (88)    | 30 (86)    | 31 (88)    |
+| Avereage Low  °C (°F)   | 21 (70)  | 22 (72) | 23 (73)  | 24 (75)  | 25 (77)   | 24 (75)  | 25 (77)	 | 24 (75)    | 23 (73)    | 23 (73)    | 22 (72)    | 22 (72)    |
+| Precipitation mm(inches)| 14 (0.55)| 4 (0.16)| 12 (0.47)| 42 (1.65)| 313(12.32)| 267(10.5)| 313 (12.32)| 267 (10.51)| 334 (13.15)| 268 (10.55)| 115 (4.53) | 56 (2.2)   |
+
+
 # **Get in by plane**
 
 **Tan Son Nhat** (Tân Sơn Nhất) is Vietnam’s largest international airport. There are two terminals: The new international terminal, and a terminal, reserved for domestic flights.
