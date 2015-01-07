@@ -116,6 +116,7 @@ body {
   margin-left:8%;
   margin-top:10px;
   width:85%;
+  margin-bottom: 10px;
 }
 .post {
   padding:20px 25px 20px 25px;
@@ -173,8 +174,18 @@ input:focus {
   padding-top: 5px;
   padding-left:0;
   padding-right:0;
-  width:auto;
+  margin-left:8%;
+  width:85%;
+  background: #e7e7e7;
+  border-radius: 3px;
+  box-shadow: 0 0 10px #000000;
 }
 .footer a {
   margin-right: 30px;
+}
+.footer-wrap {
+  padding-top: 8px;
+}
+.pull-right {
+  margin-top:8px;
 }
