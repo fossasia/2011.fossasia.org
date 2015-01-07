@@ -21,6 +21,7 @@
     <![endif]-->
 
     <!-- Custom styles for this template -->
+    <link href="css/post.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
   </head>
   <body>
@@ -60,32 +61,20 @@
       </div>
     </div>
 
+    <div class="page-content">
 
-    <div id="aCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox">
-        <div class="item active">
-          <img src="img/slides/IMG1.JPG" alt="First slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>FOSSASIA 2011</h1>
-              <p>Open Source in Asia, Ho Chi Minh City
-11-13 Nov. 2011</p>
-            </div>
-          </div>
+      <div class="wrapper">
+        {% for post in site.posts %}
+        <div class="post">
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          {{ post.excerpt }}
         </div>
+        <hr/>
+      {% endfor %}
       </div>
-    </div><!-- /.carousel -->
-
-
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-
-    <div class="container marketing">
-
       <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
+      <footer class="footer">
+        <a href="http://fossasia.org" class="pull-right">&copy; FOSSASIA</a>
         <ul class="social">
           <a href="{{ site.baseurl }}/feed.xml"><li class="feed"></li></a>
           <a href="https://facebook.com/fossasia"><li class="facebook"></li></a>
@@ -94,8 +83,8 @@
         </ul>
       </footer>
 
-    </div><!-- /.container -->
-
+    </div>
+    
 
     <!-- scripts -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
