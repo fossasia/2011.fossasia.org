@@ -9,11 +9,17 @@
 
     <div class="page-content">
       <div class="wrapper">
+
+        {% include sidebar.html %}
+
         {{ content }}
       </div>
+    </div>
 
     {% include footer.html %}
-    </div>
+
+    {% include scripts.html %}
+
   </body>
 
 </html>
