@@ -31,7 +31,7 @@
               </div>
           </div>
           <div class="sidebar-item">
-            <h2 class="sidebar-title">Orgaziser</h2>
+            <h2 class="sidebar-title">Organiser</h2>
             <div class="sidebar-content">
               <img src="{{site.baseurl}}/img/logos/mbm.png">
             </div>
@@ -47,7 +47,7 @@
             <div class="sidebar-content">
               {% for logo in site.data.logos %}
                 <a href="{{ logo.link }}">
-                  <img style="width:80px;margin:10px;" src="{{site.baseurl}}/img/logos/{{ logo.imgName }}">
+                  <img class="img-logo" style="width:80px;margin:10px;" src="{{site.baseurl}}/img/logos/{{ logo.imgName }}">
                 </a>
               {% endfor %}
             </div>
