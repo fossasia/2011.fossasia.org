@@ -6,14 +6,14 @@
   {% include head.html %}
 
   <body>
-
+    <div class="page-container">
     {% include header.html %}
 
     <div class="page-content">
 
       <div class="wrapper">
         {% include sidebar.html %}
-
+        <div class="posts">
         {% for post in site.posts %}
             {% if post.title != 'Venue' %}
             <div class="post">
@@ -25,11 +25,12 @@
             <hr/>
             {% endif %}
         {% endfor %}
+        </div>
       </div>
     </div>
       <!-- FOOTER -->
     {% include footer.html %}
-
+  </div>
     {% include scripts.html %}
     
   </body>

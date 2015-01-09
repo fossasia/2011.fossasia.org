@@ -110,12 +110,13 @@ body {
   background-size: 32px 32px;
   background-repeat: no-repeat;
 }
-
+.page-container {
+  margin-left:8%;
+  width:85%;
+}
 .page-content {
   background: #fff;
-  margin-left:8%;
   margin-top:10px;
-  width:85%;
   margin-bottom: 10px;
 }
 .post {
@@ -174,8 +175,6 @@ input:focus {
   padding-top: 5px;
   padding-left:0;
   padding-right:0;
-  margin-left:8%;
-  width:85%;
   background: #e7e7e7;
   border-radius: 3px;
   box-shadow: 0 0 10px #000000;
