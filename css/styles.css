@@ -199,3 +199,7 @@ input:focus {
 .pull-right {
   margin-top:8px;
 }
+
+.table > tbody > tr:nth-child(even) > td {
+    background-color: #efefef;
+}
