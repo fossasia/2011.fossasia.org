@@ -200,6 +200,13 @@ input:focus {
   margin-top:8px;
 }
 
-.table > tbody > tr:hover > td {
+.table:not(#flickr-table) > tbody > tr:hover > td {
     background-color: #efefef;
+}
+#flickr-table {
+  overflow: auto;
+}
+.flickr_badge_image {
+  text-align: center !important;
+  padding: 5px 8px 5px 0px !important;
 }
