@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: Location
+permalink: Location
 ---  
 # **Ho-Chi-Minh-City (Saigon)**
 
