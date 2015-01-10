@@ -123,7 +123,18 @@ body {
   padding:20px 25px 20px 25px;
   width:80%;
 }
-
+.social-below {
+  padding: 0 25px 20px 25px;
+  width: 80%;
+}
+.social-below-title {
+  background: linear-gradient(to bottom, #3c3c3c 0,#222 100%);
+  font-size:25px;
+  padding:4px;
+  text-align: left;
+  -webkit-font-smoothing:antialiased;
+  color:#fff;
+}
 .page-content {
   border-radius: 3px;
   box-shadow: 0 0 10px #000000;
@@ -187,4 +198,15 @@ input:focus {
 }
 .pull-right {
   margin-top:8px;
+}
+
+.table:not(#flickr-table) > tbody > tr:hover > td {
+    background-color: #efefef;
+}
+#flickr-table {
+  overflow: auto;
+}
+.flickr_badge_image {
+  text-align: center !important;
+  padding: 5px 8px 5px 0px !important;
 }

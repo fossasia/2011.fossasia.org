@@ -16,15 +16,34 @@
         <div class="posts">
         {% for post in site.posts %}
             {% if post.title != 'Venue' %}
-            <div class="post">
-              <h2 style="padding-bottom:5px;">
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-              </h2>
-              {{ post.content }}
-            </div>
+              {% if post.title != 'Location' %}
+                <div class="post">
+                  <h2 style="padding-bottom:5px;">
+                    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                  </h2>
+                  {{ post.content }}
+                </div>
             <hr/>
+              {% endif %}
             {% endif %}
         {% endfor %}
+          <div class="social-below">
+            <h2 class="social-below-title"> Facebook</h2>
+            <iframe scrolling="no" frameborder="0" allowtransparency="true" style="border: none; overflow: hidden; width: 100%; height: 300px;" src="http://www.facebook.com/plugins/likebox.php?id=126893747338271&amp;width=680&amp;connections=36&amp;stream=false&amp;header=false&amp;height=300"></iframe>
+          </div>
+          <div class="social-below">
+            <h2 class="social-below-title"> Flickr </h2>
+          <table id="flickr-table" cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+             <tbody>
+                <tr>
+                    <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=8&amp;display=latest&amp;size=t&amp;layout=h&amp;source=all_tag&amp;tag=fossasia2011"></script>
+                </tr>
+                <tr>
+                  <td><a href="http://www.flickr.com/search/?q=fossasia2011&m=tags">more..</a></td>
+                </tr>
+            </tbody>
+          </table>
+          </div>
         </div>
       </div>
     </div>
