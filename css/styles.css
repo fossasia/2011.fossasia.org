@@ -180,7 +180,14 @@ input:focus {
   margin-bottom:0;
 }
 .button {
-  display: none;
+  clear: both;
+  background: #3d8fe7;
+  color: #fff;
+  padding: 13px;
+  width: 100px;
+  -webkit-font-smoothing:antialiased;
+  border-radius: 3px;
+  margin-left: 10px;
 }
 .footer {
   padding-top: 5px;
