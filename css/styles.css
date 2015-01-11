@@ -155,7 +155,7 @@ body {
 }
 .social-below-title {
   background: linear-gradient(to bottom, #3c3c3c 0,#222 100%);
-  font-size:25px;
+  font-size:20px;
   padding:4px;
   text-align: left;
   -webkit-font-smoothing:antialiased;
@@ -177,7 +177,7 @@ body {
 }
 .sidebar-title {
   background: linear-gradient(to bottom, #3c3c3c 0,#222 100%);
-  font-size:25px;
+  font-size:20px;
   padding:4px;
   text-align: center;
   -webkit-font-smoothing:antialiased;
