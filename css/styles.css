@@ -111,6 +111,31 @@ body {
   background-size: 32px 32px;
   background-repeat: no-repeat;
 }
+.wiki {
+  background: url('../img/social/wiki.png');
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
+.youtube {
+  background: url('../img/social/youtube.png');
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
+.github {
+  background: url('../img/social/github.png');
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
+.gplus {
+  background: url('../img/social/googleplus.png');
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
+.linkedin {
+  background: url('../img/social/linkedin.png');
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
 .page-container {
   margin-left:8%;
   width:85%;
