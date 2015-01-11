@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: Wrap up FOSSASIA
-permalink: Wrap-up
+permalink: wrap-up
 ---  
 
 
