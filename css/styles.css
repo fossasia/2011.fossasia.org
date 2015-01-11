@@ -208,6 +208,10 @@ input:focus {
   margin-top:8px;
 }
 
+.img-logo:hover {
+  border: 1px solid #3c3c3c;
+}
+
 .table:not(#flickr-table) > tbody > tr:hover > td {
     background-color: #efefef;
 }
