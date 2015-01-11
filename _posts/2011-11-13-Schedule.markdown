@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: Schedule
-permalink: Schedule
+permalink: schedule
 ---  
 The main topics of FOSSASIA 2011 are all related to Free  and Open Source Software with a track for&nbsp;Mobile Solutions, Web  Technologies,&nbsp;Operating Systems and Applications, and&nbsp;Women in IT.
 

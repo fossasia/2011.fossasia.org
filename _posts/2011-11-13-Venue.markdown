@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: Venue
-permalink: Venue
+permalink: venue
 ---  
 {% include map.html %}
 

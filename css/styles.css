@@ -13,6 +13,7 @@ body {
   background-color: #f3f3f3;
   border-color: #ffffff;
   border-radius:4px;
+  width: 101.5%;
 }
 .navbar-default .navbar-brand {
   color: #303232;
@@ -110,6 +111,31 @@ body {
   background-size: 32px 32px;
   background-repeat: no-repeat;
 }
+.wiki {
+  background: url('../img/social/wiki.png');
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
+.youtube {
+  background: url('../img/social/youtube.png');
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
+.github {
+  background: url('../img/social/github.png');
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
+.gplus {
+  background: url('../img/social/googleplus.png');
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
+.linkedin {
+  background: url('../img/social/linkedin.png');
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
 .page-container {
   margin-left:8%;
   width:85%;
@@ -129,7 +155,7 @@ body {
 }
 .social-below-title {
   background: linear-gradient(to bottom, #3c3c3c 0,#222 100%);
-  font-size:25px;
+  font-size:20px;
   padding:4px;
   text-align: left;
   -webkit-font-smoothing:antialiased;
@@ -151,7 +177,7 @@ body {
 }
 .sidebar-title {
   background: linear-gradient(to bottom, #3c3c3c 0,#222 100%);
-  font-size:25px;
+  font-size:20px;
   padding:4px;
   text-align: center;
   -webkit-font-smoothing:antialiased;
@@ -180,7 +206,14 @@ input:focus {
   margin-bottom:0;
 }
 .button {
-  display: none;
+  clear: both;
+  background: #3d8fe7;
+  color: #fff;
+  padding: 13px;
+  width: 100px;
+  -webkit-font-smoothing:antialiased;
+  border-radius: 3px;
+  margin-left: 10px;
 }
 .footer {
   padding-top: 5px;
@@ -198,6 +231,10 @@ input:focus {
 }
 .pull-right {
   margin-top:8px;
+}
+
+.img-logo:hover {
+  border: 1px solid #3c3c3c;
 }
 
 .table:not(#flickr-table) > tbody > tr:hover > td {
