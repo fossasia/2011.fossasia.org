@@ -149,11 +149,11 @@ body {
   padding:20px 25px 20px 25px;
   width:80%;
 }
-.social-below {
+.social-bottom {
   padding: 0 25px 20px 25px;
-  width: 80%;
+  width: 100%;
 }
-.social-below-title {
+.social-bottom-title {
   background: linear-gradient(to bottom, #3c3c3c 0,#222 100%);
   font-size:20px;
   padding:4px;
@@ -167,14 +167,20 @@ body {
   min-height: 2480px;
 }
 
-.wrapper {
+.top-container {
   padding-left: 20px;
   padding-right: 20px;
+  min-height: 2165px;
 }
 .sidebar {
   float: right;
   width:20%;
 }
+
+.bottom-container {
+  width: 100%;
+}
+
 .sidebar-title {
   background: linear-gradient(to bottom, #3c3c3c 0,#222 100%);
   font-size:20px;
@@ -241,11 +247,11 @@ input:focus {
     background-color: #efefef;
 }
 
-.table:not(#flickr-table) > tbody > tr:nth-child(even) > td {
+.table:not(#flickr-table):not(#weather-table) > tbody > tr:nth-child(even) > td {
     background-color: #ccccff;
 }
 
-.table:not(#flickr-table) > thead > tr > th {
+.table:not(#flickr-table):not(#weather-table) > thead > tr > th {
     background-color: rgb(255, 255, 204);
 }
 
