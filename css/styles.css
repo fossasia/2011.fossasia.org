@@ -241,11 +241,11 @@ input:focus {
     background-color: #efefef;
 }
 
-.table:not(#flickr-table) > tbody > tr:nth-child(even) > td {
+.table:not(#flickr-table):not(#weather-table) > tbody > tr:nth-child(even) > td {
     background-color: #ccccff;
 }
 
-.table:not(#flickr-table) > thead > tr > th {
+.table:not(#flickr-table):not(#weather-table) > thead > tr > th {
     background-color: rgb(255, 255, 204);
 }
 
