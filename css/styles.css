@@ -257,9 +257,14 @@ input:focus {
 
 
 #flickr-table {
+  table-layout: fixed;
   overflow: auto;
 }
 .flickr_badge_image {
   text-align: center !important;
   padding: 5px 8px 5px 0px !important;
+}
+
+.twitter-timeline {
+  min-width: 145px;
 }
