@@ -65,6 +65,11 @@ body {
   margin-top:10px;
   height: 50px;
 }
+
+.navbar-nav li:hover {
+  background: #fbfbfb;
+}
+
 /* responsive navbar */
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
@@ -239,6 +244,16 @@ input:focus {
   margin-top:8px;
 }
 
+.centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-logo {
+  margin-left : auto;
+  margin-right: auto;
+}
 .img-logo:hover {
   border: 1px solid #3c3c3c;
 }
@@ -257,9 +272,14 @@ input:focus {
 
 
 #flickr-table {
+  table-layout: fixed;
   overflow: auto;
 }
 .flickr_badge_image {
   text-align: center !important;
   padding: 5px 8px 5px 0px !important;
+}
+
+.twitter-timeline {
+  min-width: 145px;
 }
