@@ -244,6 +244,16 @@ input:focus {
   margin-top:8px;
 }
 
+.centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-logo {
+  margin-left : auto;
+  margin-right: auto;
+}
 .img-logo:hover {
   border: 1px solid #3c3c3c;
 }
