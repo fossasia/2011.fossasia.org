@@ -304,3 +304,9 @@ input:focus {
   width:100%;
   padding: 0;
 }
+
+@media (max-width:960px) { 
+  .post {
+    width: 100%;
+  }
+} 
