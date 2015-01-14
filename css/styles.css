@@ -283,3 +283,8 @@ input:focus {
 .twitter-timeline {
   min-width: 145px;
 }
+
+.post img {
+  width: 100%;
+  height: auto;
+}
