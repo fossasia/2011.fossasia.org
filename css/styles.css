@@ -13,7 +13,7 @@ body {
   background-color: #f3f3f3;
   border-color: #ffffff;
   border-radius:4px;
-  width: 101.5%;
+  width: 100%;
 }
 .navbar-default .navbar-brand {
   color: #303232;
@@ -70,6 +70,9 @@ body {
   background: #fbfbfb;
 }
 
+.navbar-header {
+  padding-left: 15px;
+}
 /* responsive navbar */
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
@@ -81,6 +84,10 @@ body {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #e52200;
     background-color: #ffffff;
+  }
+  .navbar-header {
+    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 .carousel-caption {
@@ -262,15 +269,15 @@ input:focus {
   border: 1px solid #3c3c3c;
 }
 
-.table:not(#flickr-table) > tbody > tr:hover > td {
+.table-responsive:not(#flickr-table) > tbody > tr:hover > td {
     background-color: #efefef;
 }
 
-.table:not(#flickr-table):not(#weather-table) > tbody > tr:nth-child(even) > td {
+.table-responsive:not(#flickr-table):not(#weather-table) > tbody > tr:nth-child(even) > td {
     background-color: #ccccff;
 }
 
-.table:not(#flickr-table):not(#weather-table) > thead > tr > th {
+.table-responsive:not(#flickr-table):not(#weather-table) > thead > tr > th {
     background-color: rgb(255, 255, 204);
 }
 
@@ -292,3 +299,14 @@ input:focus {
   width: 100%;
   height: auto;
 }
+
+.container {
+  width:100%;
+  padding: 0;
+}
+
+@media (max-width:960px) { 
+  .post {
+    width: 100%;
+  }
+} 
