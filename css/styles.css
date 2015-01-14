@@ -262,15 +262,15 @@ input:focus {
   border: 1px solid #3c3c3c;
 }
 
-.table:not(#flickr-table) > tbody > tr:hover > td {
+.table-responsive:not(#flickr-table) > tbody > tr:hover > td {
     background-color: #efefef;
 }
 
-.table:not(#flickr-table):not(#weather-table) > tbody > tr:nth-child(even) > td {
+.table-responsive:not(#flickr-table):not(#weather-table) > tbody > tr:nth-child(even) > td {
     background-color: #ccccff;
 }
 
-.table:not(#flickr-table):not(#weather-table) > thead > tr > th {
+.table-responsive:not(#flickr-table):not(#weather-table) > thead > tr > th {
     background-color: rgb(255, 255, 204);
 }
 
