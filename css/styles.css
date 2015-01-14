@@ -87,7 +87,8 @@ body {
   bottom:45%;
 }
 .social {
-  height: 50px;
+  overflow: hidden;
+  column-count: 5;
 }
 .social li {
   float:left;
@@ -95,6 +96,7 @@ body {
   height:32px;
   width:32px;
   margin-right:10px;
+  margin-top: 5px;
 }
 .facebook {
   background: url('../img/social/facebook.png');
@@ -233,12 +235,14 @@ input:focus {
   background: #e7e7e7;
   border-radius: 3px;
   box-shadow: 0 0 10px #000000;
+  height: auto;
 }
 .footer a {
   margin-right: 30px;
 }
 .footer-wrap {
   padding-top: 8px;
+  padding-bottom: 8px;
 }
 .pull-right {
   margin-top:8px;
