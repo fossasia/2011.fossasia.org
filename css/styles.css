@@ -303,6 +303,9 @@ input:focus {
   min-width: 145px;
 }
 
+#projects a:last-child img {
+  margin-left: 30% !important;
+}
 .post img {
   width: 100%;
   height: auto;
