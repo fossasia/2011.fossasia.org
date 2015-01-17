@@ -294,9 +294,15 @@ input:focus {
   table-layout: fixed;
   overflow: auto;
 }
+
 .flickr_badge_image {
   text-align: center !important;
   padding: 5px 8px 5px 0px !important;
+}
+
+.flickr-more-images {
+  display: block;
+  text-align: right;
 }
 
 .twitter-timeline {
