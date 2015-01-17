@@ -95,7 +95,6 @@ body {
 }
 .social {
   overflow: hidden;
-  column-count: 5;
 }
 .social li {
   float:left;
@@ -230,11 +229,16 @@ input:focus {
   background: #3d8fe7;
   color: #fff;
   padding: 13px;
-  width: 100px;
-  -webkit-font-smoothing:antialiased;
+  width: 91%;
   border-radius: 3px;
   margin-left: 10px;
+  font-size: 14px;
 }
+
+.button:hover {
+  background: #3581d2;
+}
+
 .footer {
   padding-top: 5px;
   padding-left:0;
@@ -242,8 +246,9 @@ input:focus {
   background: #e7e7e7;
   border-radius: 3px;
   box-shadow: 0 0 10px #000000;
-  height: auto;
+  height: auto !important;
 }
+
 .footer a {
   margin-right: 30px;
 }
@@ -253,6 +258,10 @@ input:focus {
 }
 .pull-right {
   margin-top:8px;
+}
+
+.clear {
+  text-align: center;
 }
 
 .centered-image {
@@ -269,32 +278,40 @@ input:focus {
   border: 1px solid #3c3c3c;
 }
 
-.table-responsive:not(#flickr-table) > tbody > tr:hover > td {
+.table:not(#flickr-table) > tbody > tr:hover > td {
     background-color: #efefef;
 }
 
-.table-responsive:not(#flickr-table):not(#weather-table) > tbody > tr:nth-child(even) > td {
+.table:not(#flickr-table):not(#weather-table) > tbody > tr:nth-child(even) > td {
     background-color: #ccccff;
 }
 
-.table-responsive:not(#flickr-table):not(#weather-table) > thead > tr > th {
+.table:not(#flickr-table):not(#weather-table) > thead > tr > th {
     background-color: rgb(255, 255, 204);
 }
-
 
 #flickr-table {
   table-layout: fixed;
   overflow: auto;
 }
+
 .flickr_badge_image {
   text-align: center !important;
   padding: 5px 8px 5px 0px !important;
+}
+
+.flickr-more-images {
+  display: block;
+  text-align: right;
 }
 
 .twitter-timeline {
   min-width: 145px;
 }
 
+#projects a:last-child img {
+  margin-left: 30% !important;
+}
 .post img {
   width: 100%;
   height: auto;
