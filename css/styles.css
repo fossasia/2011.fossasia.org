@@ -275,7 +275,7 @@ input:focus {
   margin-right: auto;
 }
 .img-logo:hover {
-  border: 1px solid #3c3c3c;
+  background: #f6f6f6;
 }
 
 .table:not(#flickr-table) > tbody > tr:hover > td {
