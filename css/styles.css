@@ -103,6 +103,13 @@ body {
   width:32px;
   margin-right:10px;
   margin-top: 5px;
+  padding: 0px;
+}
+.social li a {
+  margin: 0px; 
+  display: block; 
+  width: 100%; 
+  height: 100%;
 }
 .facebook {
   background: url('../img/social/facebook.png');
