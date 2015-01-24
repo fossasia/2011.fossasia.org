@@ -156,10 +156,6 @@ body {
   background-size: 32px 32px;
   background-repeat: no-repeat;
 }
-.page-container {
-  margin-left:8%;
-  width:85%;
-}
 .page-content {
   background: #fff;
   margin-top:10px;
@@ -322,11 +318,6 @@ input:focus {
 .post img {
   width: 100%;
   height: auto;
-}
-
-.container {
-  width:100%;
-  padding: 0;
 }
 
 @media (max-width:960px) { 
