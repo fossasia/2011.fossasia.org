@@ -1,0 +1,64 @@
+---
+permalink: /404.html
+---
+
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+	<style>
+	body {
+		background: 0;
+	}
+	#main-content {
+		border-radius: 50%;
+		background: #f6f6f6;
+	}
+	.content {
+		margin: 15px;
+		padding: 10px;
+		text-align: center;
+		margin-top: 20px !important;
+	}
+	.social {
+		display: inline-block;
+	}
+	.centered-container {
+		margin: 50px auto 40px auto;
+		width: 600px;
+		text-align: center;
+	}
+	.content>h1{
+		font-size: 60px;
+	}
+	.content-logo {
+		font-size: 40px !important;
+		font-family: SPACEMAN;
+		padding: 16px;
+		color: #b31b00;
+		margin-top: 30px;
+	}
+	</style>
+	<div class="container centered-container">
+		<div id="main-content" class="page">
+			<div class="content">
+				<h1 class="content-logo">fossasia</h1>
+				<h1>404</h1>
+				<div class="content">
+					<h4>Sorry, the page you requested was not found</h4>
+					<h4> <a href="{{ site.baseurl }}">Go to Main Page</a> </h4>
+					<div class="content" style="border-top: 1px solid #f6f6f6">
+						<ul class="social">
+							<li class="feed"><a href="{{ site.baseurl }}/feed.xml"></a></li>
+							<li class="facebook"><a href="https://facebook.com/fossasia"></a></li>
+							<li class="twitter"><a href="https://twitter.com/fossasia"></a></li>
+							<li class="github"><a href="https://github.com/fossasia/"></a></li>
+							<li class="gplus"><a href="https://plus.google.com/108920596016838318216"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
