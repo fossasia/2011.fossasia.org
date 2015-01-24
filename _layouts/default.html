@@ -3,18 +3,25 @@
 
   {% include head.html %}
 
-  <body style="background:#f6f6f6;">
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+  <body>
+    <div class="page-container">
+      {% include header.html %}
+  
+      <div class="page-content">
+        <div class="top-container">
+  
+          {% include sidebar.html %}
+  
+          {{ content }}
+          
+        </div>
+          {% include bottom.html %}
       </div>
-    </div>
-
-    {% include footer.html %}
-
+  
+      {% include footer.html %}
+  
+      {% include scripts.html %}
+  </div>
   </body>
 
 </html>

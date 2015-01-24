@@ -1,7 +1,7 @@
-    <div class="navbar-wrapper">
+<div class="navbar-wrapper">
       <div class="container">
 
-        <nav class="navbar navbar-default navbar-fixed-top" style="opacity:0.85;">
+        <nav class="navbar navbar-default navbar-static-top" style="opacity:0.85;">
           <div class="container">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -10,20 +10,29 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" style="margin-left:20px;color:#b31b00;" href="#">fossasia</a>
+              <a class="navbar-brand" style="margin-left:20px;color:#b31b00;" href="{{ site.baseurl }}">fossasia</a>
             </div>
             <div id="navbar" style="float:right;margin-right:45px;" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a id="home-nav" href="{{ site.baseurl }}">Home</a></li>
+                <li><a href="{{site.baseurl}}">Home</a></li>
+                {% for post in site.posts %}
+                  {% if post.title != 'Wrap up FOSSASIA' %}
+                  <li>
+                    <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+                  </li>
+                  {% endif %}
+                {% endfor %}
+                <li><a href="http://groups.google.com/group/fossasia">Mailing List</a></li>
                 <li><a href="http://blog.fossasia.org">Blog</a></li>
+                <li><a href="{{ site.baseurl }}/about/">About</a></li>
+                <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Posts <span class="caret"></span></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Events <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    {% for post in site.posts %}
-                      <li>
-                        <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-                      </li>
-                    {% endfor %}
+                    <li><a href="http://2010.fossasia.org">FOSSASIA 2010</a></li>
+                    <li><a href="http://2012.fossasia.org">FOSSASIA 2012</a></li>
+                    <li><a href="http://2014.fossasia.org">FOSSASIA 2014</a></li>
+                    <li><a href="http://2015.fossasia.org">FOSSASIA 2015</a></li>
                   </ul>
                 </li>
               </ul>

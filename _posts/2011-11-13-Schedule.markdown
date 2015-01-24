@@ -1,6 +1,7 @@
 ---  
 layout: post  
 title: Schedule
+permalink: schedule
 ---  
 The main topics of FOSSASIA 2011 are all related to Free  and Open Source Software with a track for&nbsp;Mobile Solutions, Web  Technologies,&nbsp;Operating Systems and Applications, and&nbsp;Women in IT.
 
@@ -46,7 +47,7 @@ While   most Open Source and Free Software projects are based in Western   count
 | ---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Track 1: Mobile Solutions  							   |Mobile Devices , platform for Mobile devices (Android, Chrome OS, Maemo, Symbian, Moblin, Bada) and software solution for Tablets / Smartbook s,  HTML5 and the Web Technologies for mobile phones, Frameworks and Phonegap   |
 | Track 2: Web Technologies  							   |Frameworks, CSS, HTML5, Ruby on Rails, Python, PHP 																																									          |
-| Track 3: Operating systems and Applications              | new interface design and lightweight trends with KDE, GNOME, LXDE and XFCE ,Package design and development																												      |
+| Track 3: Operating Systems and Applications              | new interface design and lightweight trends with KDE, GNOME, LXDE and XFCE ,Package design and development																												      |
 | Track 4: Fostering the Asian community and women in IT   | including international Womens Panel																																														  |
 
 ![Open Source Conference in Asia, FOSSASIA Workshop]({{ site.baseurl }}/img/blog/Schedule3.JPG)
