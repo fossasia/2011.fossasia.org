@@ -9,30 +9,31 @@
     <div class="page-container">
     {% include header.html %}
 
-    <div class="page-content">
-
-      <div class="top-container">
-        {% include sidebar.html %}
-        <div class="posts">
-        {% for post in site.posts %}
-            {% if post.title != 'Venue' %}
-              {% if post.title != 'Location' %}
-                <div class="post">
-                  <h2 style="padding-bottom:5px;">
-                    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                  </h2>
-                  {{ post.content }}
-                </div>
-            <hr/>
+    <div class="container">
+      <div class="page-content">
+        <div class="top-container">
+          {% include sidebar.html %}
+          <div class="posts">
+          {% for post in site.posts %}
+              {% if post.title != 'Venue' %}
+                {% if post.title != 'Location' %}
+                  <div class="post">
+                    <h2 style="padding-bottom:5px;">
+                      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    </h2>
+                    {{ post.content }}
+                  </div>
+              <hr/>
+                {% endif %}
               {% endif %}
-            {% endif %}
-        {% endfor %}
+          {% endfor %}
+          </div>
+          {% include bottom.html %}
         </div>
-        {% include bottom.html %}
       </div>
-    </div>
       <!-- FOOTER -->
     {% include footer.html %}
+    </div>
   </div>
     {% include scripts.html %}
     
