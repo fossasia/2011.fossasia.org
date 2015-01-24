@@ -229,17 +229,14 @@ input:focus {
 }
 .button {
   clear: both;
-  background: #3d8fe7;
-  color: #fff;
   padding: 13px;
   width: 91%;
   border-radius: 3px;
   margin-left: 10px;
   font-size: 14px;
-}
-
-.button:hover {
-  background: #3581d2;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
 }
 
 .footer {
