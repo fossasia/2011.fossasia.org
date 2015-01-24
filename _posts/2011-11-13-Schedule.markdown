@@ -43,12 +43,54 @@ While   most Open Source and Free Software projects are based in Western   count
 
 ![Open Source Conference in Asia, FOSSASIA Workshop]({{ site.baseurl }}/img/blog/Schedule2.JPG)
 
-| Track           										   | Topics
-| ---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Track 1: Mobile Solutions  							   |Mobile Devices , platform for Mobile devices (Android, Chrome OS, Maemo, Symbian, Moblin, Bada) and software solution for Tablets / Smartbook s,  HTML5 and the Web Technologies for mobile phones, Frameworks and Phonegap   |
-| Track 2: Web Technologies  							   |Frameworks, CSS, HTML5, Ruby on Rails, Python, PHP 																																									          |
-| Track 3: Operating Systems and Applications              | new interface design and lightweight trends with KDE, GNOME, LXDE and XFCE ,Package design and development																												      |
-| Track 4: Fostering the Asian community and women in IT   | including international Womens Panel																																														  |
+<table class="table">
+	<thead>
+		<tr>
+			<th><strong>Track</strong></th>
+			<th><strong>Topics</strong></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Track 1: Mobile Solutions</td>
+			<td>
+				<ul>
+					<li>Mobile   Devices , platform for Mobile devices (Android, Chrome OS, Maemo,   Symbian, Moblin, Bada) and software solution for Tablets / Smartbook s</li>
+					<li>HTML5 and the Web Technologies for mobile phones</li>
+					<li>Frameworks and Phonegap</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Track 2: Web Technologies</td>
+			<td>
+				<ul>
+					<li>Frameworks</li>
+					<li>CMS</li>
+					<li>HTML5</li>
+					<li>Ruby on Rails, Python, PHP&nbsp;</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Track 3:&nbsp;Operating Systems and Applications<br></td>
+			<td>
+				<ul>
+					<li>new interface design and lightweight trends with KDE, GNOME, LXDE and XFCE</li>
+					<li>Package design and development</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Track 4:&nbsp;Fostering the Asian community and Women in IT<br></td>
+			<td>
+				<ul>
+					<li>including international Womens Panel</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ![Open Source Conference in Asia, FOSSASIA Workshop]({{ site.baseurl }}/img/blog/Schedule3.JPG)
 
