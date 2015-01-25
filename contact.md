@@ -15,7 +15,7 @@ Facebook:&nbsp;[https://www.facebook.com/fossasia](https://www.facebook.com/foss
 
 For group discussions we are using IRC:
 
-irc.freenode.net#fossasia
+[irc.freenode.net#fossasia](irc://irc.freenode.net/fossasia)
 
 &nbsp;
 
