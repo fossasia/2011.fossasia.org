@@ -279,7 +279,7 @@ input:focus {
 }
 
 .table:not(#flickr-table) > tbody > tr:hover > td {
-    background-color: #efefef;
+    background-color: #efefef !important;
 }
 
 .table:not(#flickr-table):not(#weather-table) > tbody > tr:nth-child(even) > td {
