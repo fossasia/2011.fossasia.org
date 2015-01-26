@@ -5,3 +5,6 @@ url: "http://fossasia.github.io" # the base hostname & protocol for your site
 permalink: pretty
 # Build settings
 markdown: kramdown
+# sass settings
+sass:
+    style: :compressed
