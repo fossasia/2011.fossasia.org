@@ -14,13 +14,10 @@
             </div>
             <div id="navbar" style="float:right;margin-right:45px;" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                {% for post in site.posts %}
-                  {% if post.title != 'Wrap up FOSSASIA 2011' %}
-                  <li>
-                    <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-                  </li>
-                  {% endif %}
-                {% endfor %}
+                <li><a href="{{ site.baseurl }}/wrap-up">Wrap Up</a></li>
+                <li><a href="{{ site.baseurl }}/schedule">Schedule</a></li>
+                <li><a href="{{ site.baseurl }}/venue">Venue</a></li>
+                <li><a href="{{ site.baseurl }}/location">Location</a></li>
                 <li><a href="{{ site.baseurl }}/about/">About</a></li>
                 <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
                 <li><a href="http://blog.fossasia.org">Blog</a></li>                
