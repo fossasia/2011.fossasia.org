@@ -292,8 +292,9 @@ input:focus {
   border-radius: 3px;
   box-shadow: 0 0 10px #000000;
   height: auto !important;
+  overflow: hidden;
 
-  a {
+  a.pull-right {
     margin-right: 30px
   }
 }
@@ -301,9 +302,10 @@ input:focus {
 .footer-wrap {
   padding-top: 8px;
   padding-bottom: 8px;
-}
-.pull-right {
-  margin-top:8px;
+
+  > .pull-right {
+    margin-top: 8px;
+  }
 }
 
 .clear {
@@ -363,4 +365,26 @@ input:focus {
 
 #projects a:last-child img {
   margin-left: 30% !important;
+}
+
+.licensing-info {
+  float: left;
+  margin-right: 5px;
+
+  > a {
+    margin-right: 0 !important;
+    display: inline-block;
+  }
+  img.img-responsive {
+    position: relative;
+    top: 2px;
+  }
+}
+
+#license-link {
+  display: inline-block;
+}
+
+.separator {
+  display: inline-block;
 }
