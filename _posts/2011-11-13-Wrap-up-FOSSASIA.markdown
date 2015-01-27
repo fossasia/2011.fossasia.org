@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: Wrap up FOSSASIA
+title: Wrap up FOSSASIA 2011
 permalink: wrap-up
 ---  
 
