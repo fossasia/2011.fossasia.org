@@ -51,5 +51,3 @@ The FOSSASIA 2011 website is licensed under the [MIT License](LICENSE). Feel fre
 
 For inquiries or support related to the FOSSASIA 2011 website, please contact the FOSSASIA team at [contact@fossasia.org](mailto:contact@fossasia.org).
 ```
-
-Remember to replace `yourusername` with your actual GitHub username and provide accurate details about the repository, features, and contact information based on the specific content of the FOSSASIA 2011 website.
